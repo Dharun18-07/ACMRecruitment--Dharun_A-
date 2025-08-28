@@ -1,0 +1,5 @@
+2, 6, 12, 20, ...
+The next two terms are 30 and 42
+The pattern is adding consecutive even numbers starting from 4
+2+4=6,4+6=12,12+8=20,20+10=30,30+12=42
+             
