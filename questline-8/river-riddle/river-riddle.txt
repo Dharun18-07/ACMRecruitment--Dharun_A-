@@ -1,0 +1,7 @@
+1.cross the river with the goat
+2.leave the goat there and cross back alone
+3.cross the river again with the cabbage
+4.leave the cabbage there and cross back with the goat 
+5.leave the goat and cross the river with wolf
+6.leave the wolf and cross back alone
+7.now get the goat and cross the river last time
