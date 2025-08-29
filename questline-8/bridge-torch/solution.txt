@@ -1,0 +1,14 @@
+optimal crossing sequence:
+1.(1,2) crosses first
+2.1 brings back the torch
+3.(7,10) cross the bridge
+4.2 brings back the torch
+5.finally (1,2) cross the bridge
+
+total time:
+2+1+10+2+2= 17 minutes
+
+logic:
+we make sure that one and two cross the bridge first to bring back torches faster
+we send 7 and 10 together to get rid of excess time waste
+so now 1 and 2 can cross the bridge faster after receiving the torch by 2
