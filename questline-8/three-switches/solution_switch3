@@ -1,0 +1,9 @@
+1.Turn on the first switch and wait for a minute
+2.Turn the first switch off
+3.turn the second switch on
+4.now enter the room immediately and touch the bulb if its turned off
+
+logic:
+If the first switch is the bulb switch the bulb would be warm due to the passage of electricity in the filament and
+if its the second switch the bulb would be on already as the second switch was kept turned on  and
+if its cold, it means the third switch is the bulb switch as the bulb has not been turned on yet
